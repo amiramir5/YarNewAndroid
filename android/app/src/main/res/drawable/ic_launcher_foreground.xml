@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized Open Book & Summit peak in center (30dp padding) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,42 C40,38 48,39 54,44 C60,39 68,38 74,42 L74,70 C68,66 60,67 54,72 C48,67 40,66 34,70 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,34 A4,4 0 1,1 54,34.01 Z" />
+</vector>
